@@ -1,16 +1,12 @@
 # Getting started with open source
-1. Start with intro to git
 
-    1.1 make a short demo.
-    [Don't use shortcuts/aliases]
-    create a file and add it to staging area
-    modify it with one user and commit the changes
-    modify it with different "users"
-
-2. continue with projects people could work on
-3. small projects over big ones
-4. how to find small projects
-5. some criteria for picking one
-6. your first issue
-7. list of small projects
-
+ * Intro
+   * Who I am and what this talk is about
+   * Quick git intro to what git is about conceptually
+ * Middle
+   * Start by showing what I did on GitHub directly
+   * then go back to slides
+ * Ending
+   * Show list of newbie friendly open source projects
+   * recap
+   * Questions
